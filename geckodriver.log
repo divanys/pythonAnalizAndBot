@@ -1,0 +1,106 @@
+1669825964073	geckodriver	INFO	Listening on 127.0.0.1:54065
+1669825964676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejAmZ9I"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1669825965949	Marionette	INFO	Marionette enabled
+1669825965959	Marionette	INFO	Listening on port 43937
+Read port: 43937
+WebDriver BiDi listening on ws://127.0.0.1:42975
+1669825966199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejAmZ9I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42975/devtools/browser/01a8fa53-48e2-49c9-ab3f-13336389b051
+1669825998736	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:33:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:34:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:34:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:34:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:34:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:35:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669826373866	geckodriver	INFO	Listening on 127.0.0.1:41081
+1669826374016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0r0hGo"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1669826375291	Marionette	INFO	Marionette enabled
+1669826375300	Marionette	INFO	Listening on port 42791
+Read port: 42791
+WebDriver BiDi listening on ws://127.0.0.1:58579
+1669826375535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0r0hGo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58579/devtools/browser/f9a26d98-5811-49d4-ac03-5417248a2118
+1669826396986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-30T16:40:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:40:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669826673090	geckodriver	INFO	Listening on 127.0.0.1:38801
+1669826673842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFlxgMh"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1669826675610	Marionette	INFO	Marionette enabled
+1669826675623	Marionette	INFO	Listening on port 42089
+Read port: 42089
+WebDriver BiDi listening on ws://127.0.0.1:52525
+1669826675891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFlxgMh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52525/devtools/browser/933c140f-65ec-479f-b86b-341982b2ac9f
+1669826692057	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-30T16:44:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:44:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:44:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:44:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:44:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 1524689, MediaDecoderStateMachine #1] WARNING: Decoder=7f09fd337000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builddir/build/BUILD/firefox-106.0.4/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 1524689, MediaDecoderStateMachine #1] WARNING: Decoder=7f09fd337000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /builddir/build/BUILD/firefox-106.0.4/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 1524689, MediaDecoderStateMachine #1] WARNING: Decoder=7f0a2cf4ad00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builddir/build/BUILD/firefox-106.0.4/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 1524689, MediaDecoderStateMachine #1] WARNING: Decoder=7f0a2cf4ad00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /builddir/build/BUILD/firefox-106.0.4/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669826833177	Marionette	INFO	Stopped listening on port 42089
+1669827032038	geckodriver	INFO	Listening on 127.0.0.1:41733
+1669827032695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYi82dN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1669827033915	Marionette	INFO	Marionette enabled
+1669827033927	Marionette	INFO	Listening on port 32783
+Read port: 32783
+WebDriver BiDi listening on ws://127.0.0.1:49531
+1669827034211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYi82dN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49531/devtools/browser/eccc1dc9-5cbb-4ade-8425-522de34940b8
+1669827046670	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-30T16:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-30T16:51:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1669827205961	Marionette	INFO	Stopped listening on port 32783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
